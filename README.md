@@ -111,4 +111,4 @@ leetcode：主要是刷题用，有的公司笔试直接就是上面的原题；
 ![image.png](https://upload-images.jianshu.io/upload_images/20187835-89c39c4fbd7db2d4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 第三阶梯：
-**微信群、扣扣群：**这一类信息不一定官方，而且圈比较小，不是主力，但发布交流的及时，可以获得HR联系方式。主要还是一、二两种方式。
+**微信群、扣扣群**：这一类信息不一定官方，而且圈比较小，不是主力，但发布交流的及时，可以获得HR联系方式。主要还是一、二两种方式。
